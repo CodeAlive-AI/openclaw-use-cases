@@ -18,6 +18,21 @@ When something goes wrong on a system, Clawdbot can assist in triaging. It can s
 
 IT admins also leverage Clawdbot to handle user-facing tasks like resetting accounts or answering common support questions. Integrated with messaging apps (Slack, Teams), it can respond to simple requests (e.g. *"unlock my account"* or *"what's the Wi-Fi policy?"*) by executing the needed actions or retrieving the info from documentation. It can also generate up-to-date **IT documentation** – for instance, compiling an inventory of servers or an access control list – by gathering data from systems and formatting it. This ensures documentation is not only current but produced with minimal manual work, improving compliance and knowledge sharing in the IT team.
 
+## Remote Command Execution
+
+Sysadmins leverage Clawdbot's ability to **execute shell commands remotely** through messaging integrations. Whether on mobile or away from the desk, administrators can run diagnostics, restart services, or check system status through WhatsApp, Telegram, or Slack. This enables rapid response to issues without needing direct terminal access.
+
+## Large-Scale File Organization
+
+Clawdbot excels at organizing **years of accumulated data** quickly. Administrators report sorting massive file archives, categorizing legacy documents, and restructuring directory hierarchies in minutes rather than the hours or days manual organization would require.
+
 ## Benefits
 
-IT administrators see **significant time savings and consistency gains** by using Clawdbot for routine chores. Repetitive tasks that once ate up hours each week (file cleanup, account provisioning, log reviews) are handled automatically, freeing admins to focus on higher-level planning and complex issues. The always-on monitoring and rapid response can lead to **faster incident resolution and less downtime**, as the AI often catches issues or fixes them before users even notice. Accuracy is improved as well – for example, the bot will diligently perform backups or apply updates as scheduled, reducing the risk of human error or forgotten tasks. In terms of collaboration, Clawdbot's summaries and reports keep the whole team informed (e.g. daily status updates, or a post-mortem log analysis), ensuring everyone has accurate data without one person laboring to produce it.
+IT administrators see **significant time savings and consistency gains** by using Clawdbot for routine chores. Some users report minimizing **4-5 hours of daily drudgery** through inbox cleanup, expense tracking, and automated file management. Repetitive tasks that once ate up hours each week (file cleanup, account provisioning, log reviews) are handled automatically, freeing admins to focus on higher-level planning and complex issues. The always-on monitoring and rapid response can lead to **faster incident resolution and less downtime**, as the AI often catches issues or fixes them before users even notice. Accuracy is improved as well – for example, the bot will diligently perform backups or apply updates as scheduled, reducing the risk of human error or forgotten tasks. In terms of collaboration, Clawdbot's summaries and reports keep the whole team informed (e.g. daily status updates, or a post-mortem log analysis), ensuring everyone has accurate data without one person laboring to produce it.
+
+## Considerations
+
+Administrators should weigh the following:
+- **Security vulnerabilities**: Running Clawdbot on Mac Minis or VPS setups introduces "spicy" risks like unauthorized access if not properly secured
+- **Deployment best practices**: Use restricted models, implement audit logs, and follow secure VPS setup guidelines
+- **Access controls**: Carefully scope what commands and systems the AI can interact with

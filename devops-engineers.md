@@ -18,6 +18,21 @@ With its autonomous capabilities, Clawdbot shines in **routine monitoring tasks*
 
 Going a step further, Clawdbot can not only alert but also initiate fixes for common ops issues. If a service goes down, the bot might attempt a restart, roll back a recent deployment, or clear a known culprit (like a filled disk) – all before a human even gets online. There are early anecdotes of Clawdbot reducing on-call pages by handling predictable failures: as noted earlier, *AI-driven fixes allowed one engineer to literally sleep through incidents* because the bot resolved them. This drastically reduces MTTR (mean time to recovery) and improves service reliability. In one striking example, a user credited Clawdbot with autonomously running tests and pushing fixes via Sentry and GitHub in a production app – essentially **"managing the DevOps cycle end-to-end"** without human intervention.
 
+## App Modernization & Security Logging
+
+DevOps teams use Clawdbot skills for **app modernization projects**, automating the migration of legacy systems and implementing modern security logging practices. The assistant can analyze existing applications, suggest containerization strategies, and implement security audit trails across services.
+
+## Form Filling & Portal Automation
+
+For administrative DevOps tasks, Clawdbot handles **browser automation** including filling out compliance forms, updating portal configurations, and managing vendor dashboards. This reduces the manual overhead of maintaining cloud accounts and compliance documentation.
+
 ## Benefits
 
 For DevOps engineers, Clawdbot provides **speed, efficiency, and peace of mind**. Many routine actions (deploying code, checking cloud resources, cycling servers) can be executed in chat faster than clicking through consoles. The bot's ability to parse vast logs or cloud events and distill the important bits means **faster troubleshooting and more accurate diagnoses** – no more needle-in-haystack searching manually. By automating responses to known issues, it cuts down on overnight calls and burnout, effectively acting as a first-responder for ops. All this leads to more stable systems and teams that can focus on strategic improvements rather than firefighting. Collaboration also improves as Clawdbot can keep dev and ops folks on the same page with status reports or incident summaries delivered to chat – creating a shared understanding quickly when issues do require human attention.
+
+## Considerations
+
+DevOps professionals should be aware of:
+- **Security risks**: Deployment on personal hardware or VPS requires careful security configuration to prevent unauthorized access
+- **Model selection**: Using reliable models like Claude Opus 4.5 is recommended for production-critical operations
+- **Audit requirements**: Implement logging and monitoring of AI actions for compliance and troubleshooting

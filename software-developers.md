@@ -18,6 +18,21 @@ Acting like an ever-available reviewer, Clawdbot can examine code changes for is
 
 Clawdbot excels at generating documentation and summaries of complex systems. Developers can have it produce **markdown docs of architecture, API endpoints, data flows, etc., complete with ASCII diagrams**. This turns weeks of knowledge gathering into a single comprehensive guide, preserving knowledge for the team. By offloading documentation and using persistent memory, the AI ensures that institutional knowledge stays accessible (no more "tribal knowledge" siloed with individuals), improving onboarding and collaboration. One user described it as having a built-in technical writer – it distilled dozens of conversations and PRs into *"a single source of truth"* reference.
 
+## Overnight Task Handling
+
+One of the most powerful use cases is **autonomous overnight development**. Developers set up Clawdbot to work on tasks while they sleep – building apps, fixing issues, or running extensive test suites based on prior conversations. This transforms idle hours into productive time, with developers waking up to completed work or detailed progress reports ready for review.
+
+## Managing Coding Agents & Skills
+
+Advanced users leverage Clawdbot's "skills" system to create **institutional memory** for their teams. These skills can enforce coding standards, call specific APIs, or apply team-specific patterns – turning generic AI outputs into code that matches project conventions. Engineers at firms like Anthropic report similar AI reliance for 60% of their work, achieving **50% productivity boosts** through debugging and multi-step automated actions.
+
 ## Benefits
 
-For developers, Clawdbot's assistance translates to dramatically **shorter development cycles**, fewer routine tasks, and improved code quality. By automating grunt work (coding templates, test runs, doc writing), it frees engineers to focus on creative design and complex problem-solving. Teams report significant time savings – e.g. generating documentation or fixing bugs in minutes instead of hours – and more consistent outcomes (AI doesn't forget steps or skip tests). Collaboration is enhanced as Clawdbot's persistent memory can **retain context across projects**, meaning it remembers past decisions and coding standards and can remind the team, acting as a continuity aide.
+For developers, Clawdbot's assistance translates to dramatically **shorter development cycles**, fewer routine tasks, and improved code quality. By automating grunt work (coding templates, test runs, doc writing), it frees engineers to focus on creative design and complex problem-solving. Teams report **1-2 hours saved daily** on admin tasks and context switching. Generating documentation or fixing bugs takes minutes instead of hours, and outcomes are more consistent (AI doesn't forget steps or skip tests). Collaboration is enhanced as Clawdbot's persistent memory can **retain context across projects**, meaning it remembers past decisions and coding standards and can remind the team, acting as a continuity aide.
+
+## Considerations
+
+While powerful, developers should be aware of potential drawbacks:
+- **Skill atrophy**: Over-reliance on AI for routine tasks may reduce hands-on coding practice
+- **Setup and model costs**: Effectiveness depends on proper configuration and choosing appropriate models (e.g., Claude Opus 4.5 for reliability)
+- **Review overhead**: AI-generated code still requires human review to catch edge cases and maintain quality standards
