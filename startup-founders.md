@@ -19,6 +19,14 @@ Clawdbot automates the administrative burden that often overwhelms solo founders
 - **Content summarization** for research (1 hour of reading reduced to 5-minute summaries)
 - **Finance tracking** and budget monitoring
 
+### Real-World Case: 4 Years of Financial Data in 3 Hours
+
+One founder consolidated **4 years of company financial data** – over 2,000 bank transactions and 20,000+ payments – in just 3 hours. Part of the work was done via voice messages while driving, demonstrating how Clawdbot enables productive work even during commute time. Tasks that would typically require days of manual spreadsheet work become manageable in a single session.
+
+### Document Chaos to Order
+
+A standout use case is helping directors and founders **organize computers full of invoices and contracts** scattered across thousands of folders. Clawdbot can scan directory structures, identify document types, extract metadata (dates, amounts, counterparties), and reorganize everything into a logical structure. This isn't hype – it's practical automation that saves days of tedious file management.
+
 ## Investor & Stakeholder Communications
 
 Founders configure Clawdbot to help manage **investor relations** by drafting update emails, preparing pitch deck talking points, and summarizing traction metrics. The assistant can compile data from various sources into polished investor updates, ensuring consistent communication without consuming founder time on formatting and data gathering.
@@ -26,6 +34,18 @@ Founders configure Clawdbot to help manage **investor relations** by drafting up
 ## Social Media & Marketing Automation
 
 With 2-4 hours of initial setup, founders establish **24/7 social media monitoring** through Clawdbot. The assistant tracks brand mentions, competitor activity, and industry trends, delivering summaries on schedule. It can draft social posts, respond to routine inquiries, and maintain an active presence across platforms while the founder focuses on product and customers.
+
+## CRM & Sales Pipeline Analysis
+
+Founders configure Clawdbot to **analyze CRM funnels** and suggest next actions for deals. The assistant can review pipeline stages, identify stalled opportunities, and recommend specific follow-up steps for each prospect. This brings data-driven sales management to solo founders who don't have dedicated sales ops.
+
+## Product Roadmap & Feature Analysis
+
+For product decisions, Clawdbot helps **analyze feature requests and roadmap priorities**. It can aggregate feedback from multiple sources, identify patterns in customer requests, and help founders make informed decisions about what to build next.
+
+## Community & Content Intelligence
+
+Founders use Clawdbot to **monitor community discussions** (Slack, Discord, Telegram, comments) and surface insights for content creation. The assistant identifies recurring questions, pain points, and topics that resonate – then suggests post ideas and talking points based on what the community is actually discussing.
 
 ## Server & Operations Monitoring
 
