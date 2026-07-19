@@ -25,6 +25,7 @@ Automated posting, engagement tracking, content scheduling, and social media ana
 
 **Key capabilities:**
 - Multi-platform posting automation
+- X/Twitter workflows via [TweetClaw](https://github.com/Xquik-dev/tweetclaw)
 - Engagement tracking and analytics
 - Content calendar management
 - Audience insights
