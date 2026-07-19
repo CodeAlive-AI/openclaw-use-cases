@@ -1,10 +1,10 @@
 # Business Owners and Directors
 
-Business owners and company directors use Clawdbot as a **personal operations assistant** that handles the administrative chaos accumulated over years of running a business. From consolidating financial records to organizing document archives, it tackles the backlog that busy executives never have time to address.
+Business owners and company directors use OpenClaw as a **personal operations assistant** that handles the administrative chaos accumulated over years of running a business. From consolidating financial records to organizing document archives, it tackles the backlog that busy executives never have time to address.
 
 ## Financial Data Consolidation
 
-Clawdbot excels at **aggregating years of financial data** from multiple sources. One director consolidated 4 years of company financial data – over 2,000 bank transactions and 20,000+ payments – in just 3 hours. Part of the work was done via voice messages while driving, demonstrating how the assistant enables productive work even during commute time. Tasks that would typically require days of manual spreadsheet work become manageable in a single session.
+OpenClaw excels at **aggregating years of financial data** from multiple sources. One director consolidated 4 years of company financial data – over 2,000 bank transactions and 20,000+ payments – in just 3 hours. Part of the work was done via voice messages while driving, demonstrating how the assistant enables productive work even during commute time. Tasks that would typically require days of manual spreadsheet work become manageable in a single session.
 
 The assistant can:
 - Import and reconcile bank statements across multiple accounts
@@ -17,7 +17,7 @@ The assistant can:
 
 A standout use case is helping directors **organize computers full of invoices and contracts** scattered across thousands of folders. Over years of business operations, documents accumulate in ad-hoc locations – email attachments saved to desktop, scans in random folders, contracts mixed with correspondence.
 
-Clawdbot can:
+OpenClaw can:
 - Scan directory structures and identify document types
 - Extract metadata (dates, amounts, counterparties, contract terms)
 - Reorganize everything into a logical folder structure
@@ -28,7 +28,7 @@ This isn't hype – it's practical automation that saves days of tedious file ma
 
 ## CRM & Sales Pipeline Analysis
 
-Directors configure Clawdbot to **analyze CRM data** and surface actionable insights:
+Directors configure OpenClaw to **analyze CRM data** and surface actionable insights:
 - Review pipeline stages and identify stalled deals
 - Suggest specific follow-up actions for each opportunity
 - Highlight customers at risk of churn
@@ -39,7 +39,7 @@ This brings enterprise-level sales analytics to small and medium businesses with
 
 ## Contract & Vendor Management
 
-For businesses managing multiple suppliers and service providers, Clawdbot helps **track contract obligations**:
+For businesses managing multiple suppliers and service providers, OpenClaw helps **track contract obligations**:
 - Monitor contract expiration dates and renewal deadlines
 - Compare vendor pricing and terms
 - Flag automatic renewal clauses before they trigger
@@ -48,7 +48,7 @@ For businesses managing multiple suppliers and service providers, Clawdbot helps
 
 ## Operational Reporting
 
-Directors use Clawdbot to **compile operational reports** from disparate data sources:
+Directors use OpenClaw to **compile operational reports** from disparate data sources:
 - Aggregate metrics from accounting, CRM, and project management tools
 - Generate weekly/monthly business summaries
 - Track KPIs and highlight deviations from targets
@@ -57,7 +57,7 @@ Directors use Clawdbot to **compile operational reports** from disparate data so
 
 ## Communication & Correspondence Management
 
-For executives drowning in email, Clawdbot provides **intelligent inbox management**:
+For executives drowning in email, OpenClaw provides **intelligent inbox management**:
 - Prioritize messages requiring immediate attention
 - Draft responses to routine inquiries
 - Track correspondence threads with key stakeholders
